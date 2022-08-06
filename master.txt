@@ -1,0 +1,3 @@
+Let us maks some chnages to this file!!
+To open a .txt file using the command line, use the notepad master.txt command.
+# Some more changes to see what happens.
